@@ -1,7 +1,7 @@
 {
   "name": "casino-ethereum",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple casino build with solidity, truffle and react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,14 @@
     "truffle": "^3.4.8",
     "web3": "^0.20.0",
     "webpack": "^3.5.4"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanbrudiu/casino-ethereum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bogdanbrudiu/casino-ethereum/issues"
+  },
+  "homepage": "https://github.com/bogdanbrudiu/casino-ethereum#readme"
 }
